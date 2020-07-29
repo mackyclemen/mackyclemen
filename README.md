@@ -5,6 +5,12 @@
 <h3 align="center">Yo. 👋</h3>
 <p align="center"><em>code | game | play</em></p>
 
+<p align="center">
+<a href="https://fb.me/mackyuuuuu"><img src="https://img.shields.io/badge/facebook-mackyclemen-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/mackyclemen"><img src="https://img.shields.io/badge/twitter-mackyclemen-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="mailto:mackyclemen+githubmails@gmail.com"><img src="https://img.shields.io/badge/gmail-mackyclemen-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
 -----
 
 <p align="center">I’m currently studying in <a href="https://www.feutech.edu.ph/">FEU Tech</a> as a CS Software Engineer.</p>

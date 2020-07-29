@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mackyclemen/mackyclemen/master/header-github.png" alt="Marc Steven Clemen, on a starry background depicting a galaxy" />
+</p>
+
+<h3 align="center">Yo. 👋</h3>
+<p align="center"><em>code | game | play</em></p>
+
+-----
+
+<p align="center">I’m currently studying in <a href="https://www.feutech.edu.ph/">FEU Tech</a> as a CS Software Engineer.</p>
+<p align="center">Feel free to call me <em>Macky</em> if you see me around 👍</p>
 
 <!--
 **mackyclemen/mackyclemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

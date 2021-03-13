@@ -11,11 +11,12 @@
 <a href="mailto:mackyclemen+githubmails@gmail.com"><img src="https://img.shields.io/badge/gmail-mackyclemen-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center"> currently managing the <a href="http://feutech.acm.org" target="_blank" rel="noopener noreferrer">FEU Tech ACM</a>'s website </p>
+
 -----
 
 <p align="center">I’m currently studying in <a href="https://www.feutech.edu.ph/">FEU Tech</a> as a CS Software Engineer.</p>
 <p align="center">Feel free to call me <em>Macky</em> if you see me around 👍</p>
-
 <!--
 **mackyclemen/mackyclemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

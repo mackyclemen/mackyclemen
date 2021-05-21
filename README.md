@@ -6,9 +6,9 @@
 <p align="center"><em>code | game | play</em></p>
 
 <p align="center">
-<a href="https://fb.me/mackyuuuuu"><img src="https://img.shields.io/badge/facebook-mackyclemen-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://twitter.com/mackyclemen"><img src="https://img.shields.io/badge/twitter-mackyclemen-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="mailto:mackyclemen+githubmails@gmail.com"><img src="https://img.shields.io/badge/gmail-mackyclemen-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://fb.me/mackyuuuuu"><img src="https://img.shields.io/badge/facebook-mackyclemen-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://twitter.com/mackyuuuuu"><img src="https://img.shields.io/badge/twitter-mackyclemen-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:mackyclemen+githubmails@gmail.com"><img src="https://img.shields.io/badge/gmail-mackyclemen-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center"> currently managing the <a href="http://feutech.acm.org" target="_blank" rel="noopener noreferrer">FEU Tech ACM</a>'s website </p>

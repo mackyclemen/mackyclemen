@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/gmail-mackyclemen-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
-<p align="center"> currently managing the <a href="http://feutech.acm.org" target="_blank" rel="noopener noreferrer">FEU Tech ACM</a>'s website </p>
+<p align="center"><i>was</i> managing the <a href="http://feutech.acm.org" target="_blank" rel="noopener noreferrer">FEU Tech ACM</a>'s website </p>
 
 -----
 
